@@ -1,0 +1,13 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+*.a
+
+ZStack.*
+Projects/zstack/Samples/SampleApp/CC2530DB/CoordinatorEB/*
+Projects/zstack/Samples/SampleApp/CC2530DB/EndDeviceEB/*
+Projects/zstack/Samples/SampleApp/CC2530DB/RouterEB/*
+
